@@ -1,7 +1,7 @@
 #### NAME: SARGURU K
 #### REG.NO: 212222230134
 
-# EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
+# EXPERIMENT 04 INTERFACING AN16X2 LCD DISPLAY WITH ARM AND DISPLAY STRING
 ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
 ## Theory 
